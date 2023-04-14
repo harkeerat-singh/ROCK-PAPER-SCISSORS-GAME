@@ -1,0 +1,87 @@
+this was really fun to make , i learnt a lot of new algorithms and programming techniques
+
+
+
+
+features on the surface:
+
+
+
+its a platformer
+
+uses alot of pictures
+
+has a fully functioning leaderboard where you enter your name
+
+the leaderboard uses bubble sort algorithm
+
+has a boot screen
+
+uses sequenced apperances 
+
+has different menus
+
+has a full tutorial on how to play the game with message boxes and timed apperances
+
+has a coutndown timer before starting
+
+has gravity, exponential motion and jumping by using form1.keys or whatever its called
+
+has buttons which change the picture on the player (rock,paper,scissors)
+
+the enemies move and have inteligence(ie they dont fall of their platforms)
+
+they also change pictures sequentially
+
+there is a goal screen (which you will adore :D)
+
+the player can choose to play again or exit so they dont have to load the program each time
+
+if you go to the goal without killing all the enemies then you get reset
+
+you are timed on how fast you complete the game
+
+you get put on the leaderboard#
+
+
+and probably more features too
+
+
+BEHIND THE SCREEN:
+
+
+
+
+
+
+
+
+
+
+features behind the screen:
+
+uses functions so that code is not reptitive
+has an initialize function to reset all the game variables
+the game is running underneath a game timer so the game can be stopped and played when needed
+uses timers to sequence outputs (the coutndown)
+uses iteration through text files and reading/writing
+uses bubble sort
+uses if ,for and while loops
+iterates through this.controls using for loops
+and probably more
+
+has developer mode CTRL ALT O , for changing variables and cool stuff like that
+
+the password is the in the debug/bin/key/.txt
+
+it shows a login screen before hand and reads a password from a txt files
+
+if a wrong password is entered an error code is stored in logban.txt 
+
+and the user is locked out of the program no matter how many times they restart it
+unless the logban file is cleared#
+
+if you get locked out just open logban.txt and delete everything 
+
+
+
